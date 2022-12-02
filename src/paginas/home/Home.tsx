@@ -5,13 +5,7 @@ import {Box, Paper} from "@material-ui/core";
 export default function Home(){
     return(
         <>
-            <Paper>
-                <Box>
-                    <Box>
-                        <h1>Título</h1>
-                    </Box>
-                </Box>
-            </Paper>
+           <h4>Home</h4>
         </>
     )
 }
